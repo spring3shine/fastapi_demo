@@ -2,7 +2,7 @@
 
 A simple example of using Fast API in Python.
 
-## Preconditions:
+## Preconditions
 
 - Python 3
 
